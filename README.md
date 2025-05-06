@@ -12,7 +12,7 @@ Me chamo José Vitor, tenho 20 anos sou natural de São José dos Pinhais cidade
   <img align="center" alt="Jose-Java" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Jose-SQL" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="Jose-GIT" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Jose-GITHUB" height="50" width="65" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg">
+  <img align="center" alt="Jose-GITHUB" height="50" width="65" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.svg">
   <img align="center" alt="Jose-Terraform" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">
   <img align="center" alt="Jose-AWS" height="40" width="55" src="https://commons.wikimedia.org/wiki/Special:FilePath/Amazon_Web_Services_Logo.svg">
   <img align="center" alt="Jose-Linux" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
