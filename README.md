@@ -22,13 +22,15 @@ Me chamo José Vitor, tenho 20 anos sou natural de São José dos Pinhais cidade
 ---
 ### 📊 Estatísticas
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; gap: 10px;">
   <img 
+    style="flex: 1; max-width: 50%; height: auto;"
     alt="GitHub Stats" 
     height="150" 
     src="https://github-readme-stats.vercel.app/api?username=JosVitorFerreiraDosSantosJV&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
   <img 
+    style="flex: 1; max-width: 50%; height: auto;"
     alt="Top Langs" 
     height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosVitorFerreiraDosSantosJV&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
